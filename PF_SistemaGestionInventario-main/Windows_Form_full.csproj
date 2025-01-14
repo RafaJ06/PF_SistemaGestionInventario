@@ -1,0 +1,162 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PlatformTarget>x64</PlatformTarget>
+    <BaseOutputPath>bin\</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="backend\**" />
+    <Compile Remove="Vistas\**" />
+    <EmbeddedResource Remove="backend\**" />
+    <EmbeddedResource Remove="Vistas\**" />
+    <None Remove="backend\**" />
+    <None Remove="Vistas\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net8.0-windows\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\Windows_Form_full.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0-windows\Windows_Form_full.GlobalUsings.g.cs" />
+    <Compile Include="obj\Release\net8.0-windows\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Release\net8.0-windows\Windows_Form_full.AssemblyInfo.cs" />
+    <Compile Include="obj\Release\net8.0-windows\Windows_Form_full.GlobalUsings.g.cs" />
+    <Compile Include="Vistas\FormCategoria.cs" />
+    <Compile Include="Vistas\FormCategoria.Designer.cs" />
+    <Compile Include="Vistas\FormLog_in.cs" />
+    <Compile Include="Vistas\FormLog_in.Designer.cs" />
+    <Compile Include="Vistas\FormProductos.cs" />
+    <Compile Include="Vistas\FormProductos.Designer.cs" />
+    <Compile Include="Vistas\FormProveedores.cs" />
+    <Compile Include="Vistas\FormProveedores.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include=".vs\PF_SistemaGestionInventario-main\v17\DocumentLayout.backup.json" />
+    <Content Include=".vs\PF_SistemaGestionInventario-main\v17\DocumentLayout.json" />
+    <Content Include=".vs\PF_SistemaGestionInventario-main\v17\ResourceExplorer\settings.json" />
+    <Content Include=".vs\ProjectSettings.json" />
+    <Content Include=".vs\VSWorkspaceState.json" />
+    <Content Include=".vs\Windows_Form_full\v17\DocumentLayout.backup.json" />
+    <Content Include=".vs\Windows_Form_full\v17\DocumentLayout.json" />
+    <Content Include=".vs\Windows_Form_full\v17\ResourceExplorer\settings.json" />
+    <Content Include="bin\Debug\net8.0-windows\Windows_Form_full.deps.json" />
+    <Content Include="bin\Debug\net8.0-windows\Windows_Form_full.runtimeconfig.json" />
+    <Content Include="obj\Debug\net8.0-windows\Windows_Form_full.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net8.0-windows\Windows_Form_full.designer.deps.json" />
+    <Content Include="obj\Debug\net8.0-windows\Windows_Form_full.designer.runtimeconfig.json" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\Windows_Form_full.csproj.nuget.dgspec.json" />
+    <Content Include="Vistas\.vs\ProjectSettings.json" />
+    <Content Include="Vistas\.vs\Vistas\v17\DocumentLayout.backup.json" />
+    <Content Include="Vistas\.vs\Vistas\v17\DocumentLayout.json" />
+    <Content Include="Vistas\.vs\VSWorkspaceState.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Vistas\FormCategoria.resx" />
+    <EmbeddedResource Include="Vistas\FormLog_in.resx" />
+    <EmbeddedResource Include="Vistas\FormProductos.resx" />
+    <EmbeddedResource Include="Vistas\FormProveedores.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include=".vs\PF_SistemaGestionInventario-main\FileContentIndex\0cbfcf3d-bc23-42d8-970a-82a47eb5941e.vsidx" />
+    <None Include=".vs\PF_SistemaGestionInventario-main\FileContentIndex\323689cf-5a17-420f-ba3c-fac493fc70bd.vsidx" />
+    <None Include=".vs\PF_SistemaGestionInventario-main\FileContentIndex\455fc565-3c82-475d-a3f9-800500c08aa1.vsidx" />
+    <None Include=".vs\PF_SistemaGestionInventario-main\FileContentIndex\5b9b9b42-0da5-4167-b77b-b4f2c02d1cba.vsidx" />
+    <None Include=".vs\PF_SistemaGestionInventario-main\FileContentIndex\ab67f6fb-929e-4ee3-8b4a-8b2847eca5ca.vsidx" />
+    <None Include=".vs\ProjectEvaluation\windows_form_full.metadata.v9.bin" />
+    <None Include=".vs\ProjectEvaluation\windows_form_full.projects.v9.bin" />
+    <None Include=".vs\ProjectEvaluation\windows_form_full.strings.v9.bin" />
+    <None Include=".vs\slnx.sqlite" />
+    <None Include=".vs\Windows_Form_full\DesignTimeBuild\.dtbcache.v2" />
+    <None Include=".vs\Windows_Form_full\FileContentIndex\07165466-0714-4518-8125-b4f005ab6e4b.vsidx" />
+    <None Include=".vs\Windows_Form_full\FileContentIndex\20e237d8-388c-42e0-a9eb-ed3cc9c0d47d.vsidx" />
+    <None Include=".vs\Windows_Form_full\FileContentIndex\89c70785-6d9b-4cfd-b66a-f9015fdcf86e.vsidx" />
+    <None Include=".vs\Windows_Form_full\FileContentIndex\b0fcff6f-1c07-42d5-a647-746294f746ac.vsidx" />
+    <None Include=".vs\Windows_Form_full\FileContentIndex\dc76e41d-90b5-4e5b-abef-1ce849973eea.vsidx" />
+    <None Include=".vs\Windows_Form_full\v17\.futdcache.v2" />
+    <None Include="bin\Debug\net8.0-windows\Data Source=Inventario.db%3bVersion=3%3b" />
+    <None Include="bin\Debug\net8.0-windows\EntityFramework.dll" />
+    <None Include="bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll" />
+    <None Include="bin\Debug\net8.0-windows\Inventario.db" />
+    <None Include="bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll" />
+    <None Include="bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll" />
+    <None Include="bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll" />
+    <None Include="bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll" />
+    <None Include="bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll" />
+    <None Include="bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll" />
+    <None Include="bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll" />
+    <None Include="bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll" />
+    <None Include="bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll" />
+    <None Include="bin\Debug\net8.0-windows\SQLite.Interop.dll" />
+    <None Include="bin\Debug\net8.0-windows\System.Data.SqlClient.dll" />
+    <None Include="bin\Debug\net8.0-windows\System.Data.SQLite.dll" />
+    <None Include="bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll" />
+    <None Include="bin\Debug\net8.0-windows\Windows_Form_full.dll" />
+    <None Include="bin\Debug\net8.0-windows\Windows_Form_full.exe" />
+    <None Include="bin\Debug\net8.0-windows\Windows_Form_full.pdb" />
+    <None Include="obj\Debug\.AssemblyReference.cache" />
+    <None Include="obj\Debug\net8.0-windows\apphost.exe" />
+    <None Include="obj\Debug\net8.0-windows\Categoria.Form1Categoria.resources" />
+    <None Include="obj\Debug\net8.0-windows\Inicio.Form1Inicio.resources" />
+    <None Include="obj\Debug\net8.0-windows\InicioSesion.Form1InicioSesion.resources" />
+    <None Include="obj\Debug\net8.0-windows\Proveedores.Form1Proveedores.resources" />
+    <None Include="obj\Debug\net8.0-windows\refint\Windows_Form_full.dll" />
+    <None Include="obj\Debug\net8.0-windows\ref\Windows_Form_full.dll" />
+    <None Include="obj\Debug\net8.0-windows\Windows_.C68F3D51.Up2Date" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.assets.cache" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.csproj.GenerateResource.cache" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.dll" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.pdb" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.Vistas.FormCatalogos.resources" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.Vistas.FormCategoria.resources" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.Vistas.FormLog_in.resources" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.Vistas.FormProductos.resources" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.Vistas.FormProveedores.resources" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.Vistas.FormVerProv.resources" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.Vistas.NuevasVistas.FormVerCat.resources" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.Vistas.NuevasVistas.Vistas.Categoria.Properties.Resources.resources" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.Vistas.NuevasVistas.Vistas.FormVerProd.resources" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.Vistas.NuevasVistas.Vistas.Inicio.Properties.Resources.resources" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.Vistas.NuevasVistas.Vistas.InicioSesion.Properties.Resources.resources" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.Vistas.NuevasVistas.Vistas.Productos.Properties.Resources.resources" />
+    <None Include="obj\Debug\net8.0-windows\Windows_Form_full.Vistas.NuevasVistas.Vistas.Proveedores.Properties.Resources.resources" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\Release\net8.0-windows\Windows_Form_full.AssemblyInfoInputs.cache" />
+    <None Include="obj\Release\net8.0-windows\Windows_Form_full.assets.cache" />
+    <None Include="obj\Release\net8.0-windows\Windows_Form_full.csproj.AssemblyReference.cache" />
+    <None Include="obj\Release\net8.0-windows\Windows_Form_full.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Windows_Form_full.csproj.nuget.g.props" />
+    <None Include="obj\Windows_Form_full.csproj.nuget.g.targets" />
+    <None Include="Vistas\.vs\slnx.sqlite" />
+    <None Include="Vistas\.vs\Vistas\FileContentIndex\2e450289-0c16-4a65-8730-54e026058938.vsidx" />
+    <None Include="Windows_Form_full.sln" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.5.1" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.119" />
+    <PackageReference Include="System.Data.SQLite.Core" Version="1.0.119" />
+    <PackageReference Include="System.Data.SQLite.EF6" Version="1.0.119" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Release\net8.0-windows\" />
+    <Folder Include="obj\Release\net8.0-windows\refint\" />
+    <Folder Include="obj\Release\net8.0-windows\ref\" />
+  </ItemGroup>
+
+</Project>

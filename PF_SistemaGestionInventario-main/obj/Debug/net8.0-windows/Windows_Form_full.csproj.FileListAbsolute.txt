@@ -1,0 +1,102 @@
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\Windows_Form_full.exe
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\Windows_Form_full.deps.json
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\Windows_Form_full.runtimeconfig.json
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\Windows_Form_full.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\Windows_Form_full.pdb
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\Windows_Form_full.exe
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\Windows_Form_full.deps.json
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\Windows_Form_full.runtimeconfig.json
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\Windows_Form_full.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\Windows_Form_full.pdb
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\obj\Debug\net8.0-windows\Windows_Form_full.csproj.AssemblyReference.cache
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.FormCatalogos.resources
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.FormLog_in.resources
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.FormProductos.resources
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.FormProveedores.resources
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\obj\Debug\net8.0-windows\Windows_Form_full.csproj.GenerateResource.cache
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\obj\Debug\net8.0-windows\Windows_Form_full.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\obj\Debug\net8.0-windows\Windows_Form_full.AssemblyInfoInputs.cache
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\obj\Debug\net8.0-windows\Windows_Form_full.AssemblyInfo.cs
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\obj\Debug\net8.0-windows\Windows_Form_full.csproj.CoreCompileInputs.cache
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\obj\Debug\net8.0-windows\Windows_.C68F3D51.Up2Date
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\obj\Debug\net8.0-windows\Windows_Form_full.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\obj\Debug\net8.0-windows\refint\Windows_Form_full.dll
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\obj\Debug\net8.0-windows\Windows_Form_full.pdb
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\obj\Debug\net8.0-windows\Windows_Form_full.genruntimeconfig.cache
+C:\Users\Frederick Tejeda\source\repos\Windows_Form_full\obj\Debug\net8.0-windows\ref\Windows_Form_full.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\Windows_Form_full.exe
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\Windows_Form_full.deps.json
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\Windows_Form_full.runtimeconfig.json
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\Windows_Form_full.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\Windows_Form_full.pdb
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.FormCatalogos.resources
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.FormLog_in.resources
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.FormProductos.resources
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.FormProveedores.resources
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.AssemblyInfo.cs
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_.C68F3D51.Up2Date
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\refint\Windows_Form_full.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.pdb
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.genruntimeconfig.cache
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\ref\Windows_Form_full.dll
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Categoria.Form1Categoria.resources
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.NuevasVistas.Vistas.Categoria.Properties.Resources.resources
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\InicioSesion.Form1InicioSesion.resources
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.NuevasVistas.Vistas.InicioSesion.Properties.Resources.resources
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Inicio.Form1Inicio.resources
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.NuevasVistas.Vistas.Inicio.Properties.Resources.resources
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.NuevasVistas.Vistas.Productos.Properties.Resources.resources
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Proveedores.Form1Proveedores.resources
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.NuevasVistas.Vistas.Proveedores.Properties.Resources.resources
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.FormCategoria.resources
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.NuevasVistas.FormVerCat.resources
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.NuevasVistas.Vistas.FormVerProd.resources
+C:\Users\USER\Desktop\INTEC\Trimetres 03 (Noviembre - Enero 2024)\Desarrollo de Software 1\PF_SistemaGestionInventario-main\obj\Debug\net8.0-windows\Windows_Form_full.Vistas.FormVerProv.resources
